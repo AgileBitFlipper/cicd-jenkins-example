@@ -1,0 +1,7 @@
+---
+applications:
+- name: cicd-jenkins-example
+  instances: 1
+  memory: 800m
+  path: target/cicd-jenkins-eaxmple-0.0.1-SNAPSHOT.jar
+  
